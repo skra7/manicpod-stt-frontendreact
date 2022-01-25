@@ -1,0 +1,13 @@
+@import url(https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css);
+@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.206/distr/fira_code.css);
+
+body {
+  font-family: -apple-system, Roboto, "Open Sans", "Helvetica Neue", sans-serif;
+  margin-left: '30px';
+}
+
+.demo {
+  font-family: "Fira Code", monospace;
+  margin: '30px';
+  
+}
