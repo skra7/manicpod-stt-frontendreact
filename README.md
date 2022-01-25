@@ -1,0 +1,1 @@
+# manicpod-stt-frontendreact
